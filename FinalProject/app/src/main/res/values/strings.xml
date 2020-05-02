@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CityHotel</string>
+    <string name="new_york">New York</string>
+    <string name="paris">Paris</string>
+    <string name="london">London</string>
+    <string name="search_restaurant">Search restaurant</string>
+    <string name="email">Email</string>
+    <string name="ratings">Ratings</string>
+    <string name="navigate">Navigate</string>
+    <string name="about">About</string>
+    <string name="detail">test detail</string>
+    <string name="genrate_code">Gnerate code</string>
+    <string name="hotel_detail">Hotel detail</string>
+    <string name="comments">Comments</string>
+    <string name="hotel_details">Hotel details</string>
+    <string name="search_hotel">Search hotel</string>
+    <string name="no_hotel_found">No hotel found</string>
+</resources>

@@ -1,0 +1,905 @@
+{
+    "hotel" : [
+        {
+            "name" : "Cambria Hotel New York - Chelsea",
+            "phone" : "+1 212-244-4477",
+            "website" : "choicehotels.com",
+            "address" : "123 W 28th St, New York, NY 10001, United States",
+            "longitude" : -74.0291669,
+            "latitude" : 40.7405216,
+            "hotel_detail" : "Set in the bustling theater district, this sleek, modern hotel is a 4-minute walk from the Rockefeller Center subway station, a 6-minute walk from Times Square and 1 mile from the Empire State Building.\nAmenities include a warm bistro and a trendy lobby lounge/cocktail bar, plus a terrace, a gym and a 24-hour business center.\nAmenities include a warm bistro and a trendy lobby lounge/cocktail bar, plus a terrace, a gym and a 24-hour business center.",
+            "image" : [
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/205/205047690.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/169/169894152.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/169/169894069.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/205/205047657.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/205/205047674.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/205/205047696.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Lejla Zoronjic",
+                    "comment" : "Honestly doesn't get much better than this. Central location but on a quiet street. Friendly staff, comfy beds, clean, modern, and a good price! I would stay here again without hesitation.",
+                    "rating" : 5,
+                    "user_image" : "https://lh6.googleusercontent.com/-gVVwL-QDm98/AAAAAAAAAAI/AAAAAAAAAAA/wP5-7uMLeMs/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Ashley Miller",
+                    "comment" : "This hotel was wonderful! Staff was friendly, room was clean, and very accommodating. We will be returning to NY in the next couple years and hope to stay here again. In the morning I could look out the window and see the flower shops setting up flowers! We stayed in December during Christmas time and had no issues at all. After a long drive to NY it was nice to relax.",
+                    "rating" : 5,
+                    "user_image" : "https://lh3.googleusercontent.com/-TJ_ylwwovtE/AAAAAAAAAAI/AAAAAAAAAAA/xR0LebvyECk/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Laura Hoffman",
+                    "comment" : "Excellent hotel in the heart of Chelsea.  Far enough away from the crowds but close to EVERYTHING>   Large updated rooms.  Excellent customer service from the moment we arrived.  We always try to stay at this Cambria when we go to NYC.  Relaxing and perfect.",
+                    "rating" : 5,
+                    "user_image" : "https://lh5.googleusercontent.com/-Xwz0rQkxLv8/AAAAAAAAAAI/AAAAAAAAAAA/nkkssjY5BIA/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "Staypineapple New York",
+            "phone" : "+1 866-866-7977",
+            "website" : "staypineapple.com",
+            "address" : "337 W 36th St, New York, NY 10018, United States",
+            "longitude" : -73.991612,
+            "latitude" : 40.7467312,
+            "hotel_detail" : "A 3-minute walk from a subway station, this relaxed hotel set among restaurants and businesses is 14 minutes on foot from the Empire State Building and a 6-minute walk from Madison Square Garden.\nThe funky, cozy rooms, some with furnished terraces, provide flat-screen TVs, Keurig coffeemakers and Wi-Fi access. Suites add separate living rooms. Connecting rooms are available.\nThere's a lobby cafe. Dogs are welcome (surcharge).",
+            "image" : [
+                "https://lh4.googleusercontent.com/proxy/gLPf48hl0fHUrguzh5qCsov_OrQ0lFx6CAeRrGtM7Ma0u7qEfpnKwIm5pR3KLwbYfm1odYp_ht0Sl5ZQnT7bhMahShsK5z1eVpU1wrAFwRTLcN9xhs_sFNrCgxiVm-sNimGZeD8JGRKbHrfuJr9_ctVd1ECH5w=w408-h272-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/180/180756567.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/204/204964339.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/204/204964577.jpg",
+                "https://q-cf.bstatic.com/xdata/images/landmark/max1024/194432.webp?k=1a39960498442bff21312679d7545819fbc4dc66286800ddb2f9d5abe4e63276&o="
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Selina Wang",
+                    "comment" : "I visited the first weekend of February. I called to ask for early check-in, and they were able to notify me when the room was available by giving me a call. Room was available at 12pm, which was nice. The only issue is that they are not able to charge the card on file, which was our preferred payment method so my boyfriend and I had to charge it again, with the card present - he was at an event, which delayed me being able to get into the room immediately (especially after driving 4 hours!). \n\nThe room is definitely fashionable and cute. It is definitely tiny for a hotel room, but it’s New York City so it was expected. We had added a pet package, but none of the items were in our room when we got there. We had to ask for it, and they delivered within 30 minutes of being in our room. The staff and hotel are very dog friendly. \n\nThe one downside of the hotel is that the door is not very soundproof. We were next to a linen closet and by the hotel, so anyone using the closet or elevator caused a lot of excess noise. It kept me up since I’m an extremely light sleeper. The bed was very comfortable with the duvets and pillows though! I felt like I was wrapped in cotton candy for the evening with their robes!",
+                    "rating" : 4,
+                    "user_image" : "https://lh3.googleusercontent.com/-a7fzlwsqsSQ/AAAAAAAAAAI/AAAAAAAAAAA/vbxVc_VyUxI/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Eric Schadt",
+                    "comment" : "My girlfriend stayed here last November with a friend and loved it so much. When we bought tickets to see the Rangers play the Flyers she knew she had to stay here again. Located only 3 blocks from Madison Square Garden and less than a mile from so many other great areas, this hotel is in the perfect spot. This is the best value in NYC. Great service and exceptional cleanliness as well.",
+                    "rating" : 5,
+                    "user_image" : "https://lh4.googleusercontent.com/-zHd8M00yLe0/AAAAAAAAAAI/AAAAAAAAAAA/H5tULoYBYR8/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Chiffon Butler",
+                    "comment" : "I love this place! First family trip with our dog and he loved it! Comfortable bed will return soon",
+                    "rating" : 5,
+                    "user_image" : "https://lh4.googleusercontent.com/-bRfsKvVufqw/AAAAAAAAAAI/AAAAAAAAAAA/PzqzEom8zyw/w60-h60-p-rp-mo-ba2-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Dvir A",
+                    "comment" : "This place is not big, but it's big on style, character and attitude. They take their branding of the pineapple to the max, through everything from the decor, communications, and pineapple flavored water that is served in the lobby. Place was recently renovated, and things are new and sparkling (yellow!). As a cool bonus, they have a smart speaker at every room that you can use to ask questions (like Alexa or Google assistant). Bit of a shame it can't yet control the lights inside the room. The location is very convenient, and easy access to Times Square and subway stations. The neighborhood is not that clean or welcoming, though. Overall, cool experience for staying in the heart of the big apple, perfect for tourists like me.",
+                    "rating" : 5,
+                    "user_image" : "https://lh4.googleusercontent.com/-DNn8ECluXzM/AAAAAAAAAAI/AAAAAAAAAAA/iUOiePx_O3s/w60-h60-p-rp-mo-ba2-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "John Peter Baker",
+                    "comment" : "Very functional and a good price rooms small but really practical. Enjoyed my stay",
+                    "rating" : 4,
+                    "user_image" : "https://lh4.googleusercontent.com/-y6nSLXH7UlQ/AAAAAAAAAAI/AAAAAAAAAAA/lPU2a-vBFZs/w60-h60-p-rp-mo-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "San Carlos Hotel",
+            "phone" : "+1 212-755-1800",
+            "website" : "sancarloshotel.com",
+            "address" : "150 E 50th St, New York, NY 10022, United States",
+            "longitude" : -73.991612,
+            "latitude" : 40.7560194,
+            "hotel_detail" : "Just off busy 3rd Avenue in office-packed East Midtown, this updated 1920s tower is 2 blocks from the subway and 7 blocks from Grand Central station; Rockefeller Center is within a 4-block walk.Room decor is upscale and traditional, with lots of rosy woods; all rooms have high-end bed linens and bath products, microwaves, minifridges and coffeemakers, as well as minibars, free Wi-Fi and flat-screen TVs. Suites add kitchenettes and pull-out couches.At street level, an Indian restaurant serves breakfast, lunch and dinner. There is a 24-hour exercise room, a business center and 2 meeting rooms.",
+            "image" : [
+                "https://lh4.googleusercontent.com/proxy/rsBRnyrwsnXpHJhFf33PUGiKl1ni7E2hXpoGI8evY1VO7sWDyM0OxoYdQhXChL5PY35BVB-4TvYQohVOq0K8-Ghfm1LerJB8WLtkXC-iS-Np4qE0x8Ct2xxabIgN3QUiumVB8UnMnQdPRDB_iFRxQ8eOvazavOc=w408-h272-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max500/424/42474559.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/225/225482050.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/204/204964577.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/225/225475918.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Darrell Sculthorpe",
+                    "comment" : "Awesome place!!! Friendly staff,  great people.  Knowledgeable about the area. Room and service was way better than expected.  Highly recommend.  Will definitely stay there next Visit.",
+                    "rating" : 5,
+                    "user_image" : "https://lh3.googleusercontent.com/-6J2Pv7dPXuc/AAAAAAAAAAI/AAAAAAAAAAA/f31FCyV3F7s/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Steven Brechin",
+                    "comment" : "Great old hotel in Midtown Manhattan. My wife and I come two or three times a year to dive into NYC life.  It is a wonderful base to do so with spacious rooms, friendly staff and reasonable prices.  Look for deals.  The hotel is often filled with international visitors giving the place a European vibe.",
+                    "rating" : 4,
+                    "user_image" : "https://lh3.googleusercontent.com/-KezpOy3QNPk/AAAAAAAAAAI/AAAAAAAAAAA/HS5VadwUeIw/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Dilly Severin",
+                    "comment" : "Stayed here over New Year's holiday. Great location but did not find this to be a luxury experience. Received none of the supposed VIP perks that were promised, room was small, but worst was front desk service. Came in to an empty front desk and literally waited 20 minutes before I could be checked in. Thought it was just bad luck but found myself once again in front of an unmanned front desk when it was time to check out. Baffling. Would not return.",
+                    "rating" : 2,
+                    "user_image" : "https://lh5.googleusercontent.com/-7lhdLU9r9VI/AAAAAAAAAAI/AAAAAAAAAAA/NjDXrJu2BGU/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Dvir A",
+                    "comment" : " Great location!!! The hotel is clean with friendly staff. It’s not as modern as I’d like however, it’s fair. There’s a microwave and a fridge in the room. We were greeted with a “welcome bag” for being Expedia members. Nice touch. The things that I didn’t like; the view is awful brick building, we could see directly into the apartment across from us. The resident was often nude and completely unbothered. Second-after a full day out in the NYC heat, returning to the hotel late to find we didn’t have face/wash clothes was awful. Lastly, the hotel hallways are stuffy and hot.",
+                    "rating" : 4,
+                    "user_image" : "https://lh4.googleusercontent.com/-DNn8ECluXzM/AAAAAAAAAAI/AAAAAAAAAAA/iUOiePx_O3s/w60-h60-p-rp-mo-ba2-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Joe Rosenfield",
+                    "comment" : "One of the nicer hotels in the area. The rooms are great, and customer service is very kind and helpful.",
+                    "rating" : 4,
+                    "user_image" : "https://lh3.googleusercontent.com/-dU6I6YGbsQo/AAAAAAAAAAI/AAAAAAAAAAA/VdtFNnJewGU/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "InterContinental New York Barclay",
+            "phone" : "+1 212-755-5900",
+            "website" : "ihg.com",
+            "address" : "111 E 48th St, New York, NY 10017, United States",
+            "longitude" : -73.9736337,
+            "latitude" : 40.7560356,
+            "hotel_detail" : "Built in 1926, this upscale Midtown hotel is 7 minutes' walk from Grand Central Terminal, 13 minutes' walk the Museum of Modern Art, and a mile from the Empire State Building.Refined rooms come with Wi-Fi and flat-screen TVs, plus desks and marble vanities; some have views of the Manhattan skyline. Upgraded rooms feature custom-designed furniture, and suites add fully stocked bars. Room service is offered 24/7.There's a chic restaurant and a swanky, gin-themed lounge bar. Other amenities include a 24-hour business center and 15,000 sq ft of meeting space, including 2 ballrooms.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipPua23iSSAi17ztZTrTpkYOjttvsUY1Tm27HD_c=w408-h272-k-no",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/245/245803608.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234254795.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234254811.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234254801.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Gaielle F",
+                    "comment" : "Beautiful hotel lobby very stunning Hotel Staff very helpful & friendly! (Except for the concierge he sent us to a takeout Thai restaurant when he could see I was dressed up).. that’s OK we found an Italian restaurant that was marvelous! Hotel Bar was amazing food & cocktails excellent, the rooms are spacious and beautiful!",
+                    "rating" : 5,
+                    "user_image" : "https://lh4.googleusercontent.com/-C52QLtVFETA/AAAAAAAAAAI/AAAAAAAAAAA/AVbV-gtpr94/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Todd Montgomery",
+                    "comment" : "Extremely clean property. The room have issues but the management fixed them right away. One cannot ask for more than that.  The restaurant and bar is the weakest part of this hotel. They are not concerned about feeding their guests. For a city that never sleeps, their food and beverage is taking a nap from 10:00 pm to 6:00 am.",
+                    "rating" : 3,
+                    "user_image" : "https://lh4.googleusercontent.com/-kGz6ILLQnXo/AAAAAAAAAAI/AAAAAAAAAAA/AQPoy8I-Bog/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Paul Gedoun",
+                    "comment" : "My wife and I and our children stayed at the hotel for 2 1/2 weeks. The accommodation was excellent and the staff are friendly and attentive and the location was very central. We thank the manager and her team for an outstanding experience during our time in New York..",
+                    "rating" : 2,
+                    "user_image" : "https://lh6.googleusercontent.com/-6FKF4gx-UlU/AAAAAAAAAAI/AAAAAAAAAAA/q8V8qttHA_Q/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Guilherme Blumenthal",
+                    "comment" : "Bar and Food average at best. Expensive and they added a 15% Gratuity, which would go unnoticed for they ran my credit card and handed me a cc slip with a Line below the total. I found the bill expensive and decided to check, and then found the 15% added to the total before they ran my cc.Remark: party of 2, so, no excuses here. They should at least have made me aware of that.",
+                    "rating" : 3,
+                    "user_image" : "https://lh5.googleusercontent.com/-w4eI0YpN1F0/AAAAAAAAAAI/AAAAAAAAAAA/sa9eqyEbL9Y/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Kevin Hinton",
+                    "comment" : "Total disappointment. This property does Intercontinental no favors.. We had a deluxe king room with one very dirty, not double glazed window looking onto a black, dark office block. The room itself and the corridors have been nicely refurbished but that is it.  Breakfast was $50 each and was a very basic buffet. Go to the lovely Danish cafe on the hotel corner! No decent restaurant and a basic reception bar.  We had several issues with staff being argumentative and not really interested in customer service. Both evenings we were there, a full on street fight was going on outside and the porters and security staff did nothing to try calm down the situation.. We felt like we were staying a three star motel most of the time.",
+                    "rating" : 2,
+                    "user_image" : "https://lh4.googleusercontent.com/--SPpc2NeeKY/AAAAAAAAAAI/AAAAAAAAAAA/OXYuFSr8AKk/w60-h60-p-rp-mo-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "The High Line Hotel",
+            "phone" : "+1 212-929-3888",
+            "website" : "thehighlinehotel.com",
+            "address" : "180 10th Ave, New York, NY 10011, United States",
+            "longitude" : -74.0664222,
+            "latitude" : 40.735636,
+            "hotel_detail" : "Set in a converted 1865 redbrick dormitory with original stained-glass windows and pine floors, this chic boutique hotel in Chelsea is a 10-minute walk to the subway and 1 block from High Line park and Chelsea Piers.Sophisticated rooms with a quirky vibe feature wood floors and modern decor with vintage elements, plus free Wi-Fi, flat-screen TVs and minibars. Upgraded rooms and suites add sitting areas and/or decorative fireplaces.Loaner bikes are available. A trendy lobby coffee shop converts to a bar in the evenings. There's also a garden courtyard and 8,000 sq ft of event space.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipMwGHLgkoWJ1XVH52VlhQUunzaXTR38Cu10yWIH=w408-h271-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/334/33406254.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/334/33406278.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/334/33406218.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/334/33406227.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Elizabeth Bannan Atcheson",
+                    "comment" : "good, but quirky hotel. In an old monastery, each of the hotel rooms is decorated differently and definitely rustic - in period with the building. General charm is great, (speakeasy feel) but my room (#11) was slightly lackluster given photos of other rooms. Cant speak to feel of other rooms, but was expecting slightly more.  Bar in lobby shuts down quite early!",
+                    "rating" : 4,
+                    "user_image" : "https://lh5.googleusercontent.com/-ZrkX7m9E-iQ/AAAAAAAAAAI/AAAAAAAAAAA/h8evH1lxhAo/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Bill Tracker",
+                    "comment" : "Went to NYC for one night to see a concert with a friend.  My room had filthy dark brown water for my whole stay.  I could shower, wash my face or brush my teeth.  The hotel apparently had a problem in the boiler but no one contacted me to notify me.  They did not offer bottled water or any accommodation.  They provided a partial refund but even after the refund I payed $180 to stay in a room with out the most amenity.  Really disappointed by my stay, how the situation was handled while I was there and the lack of a full refund.",
+                    "rating" : 1,
+                    "user_image" : "https://lh3.googleusercontent.com/-eu3xid1Y088/AAAAAAAAAAI/AAAAAAAAAAA/UrYbKKjJrdc/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Jamie Lissette",
+                    "comment" : "I’ve heard great things about this hotel and wanted to book a room for my boyfriends birthday! Little did I know that we would be awake all night with our room reeking of marijuana and really loud neighbors. The window was broken and we had to prop it open with a Pringle’s can since we could barely breathe. I tried contacting the front desk multiple times to move but no one responded to us. I’ve yet to hear back from the hotel and I’ve tried to contact them multiple times this week to understand their policies about smoking. Had I known it was a smoking hotel, I wouldn’t have booked this room in the first place.",
+                    "rating" : 1,
+                    "user_image" : "https://lh5.googleusercontent.com/-a-5Lw4pEg_8/AAAAAAAAAAI/AAAAAAAAAAA/C-4JrGhfghU/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Samar Ali",
+                    "comment" : "Unless you are travelling with a pet and need a pet-friendly hotel, this is not where you should stay during your time in New York. New York is known for its variety of options and trust me, there are plenty of better options than The High Line Hotel.To start, the hotel is deceiving. Because of its name and location, you are left with the impression that they are going to live up to the price tag they are asking. You would expect, for example, for the hotel to be clean at a minimum. You would also expect the hotel to be well managed and friendly. Unfortunately, they are neither clean nor accommodating. In fact, this is one of the strangest boutique hotel environments I've ever been in where everything just feels off from the smell to the vibe to the entire experience starting with even the check-in process. It was so bad that I ended up checking out of the hotel early even though I was charged a penalty fee.",
+                    "rating" : 2,
+                    "user_image" : "https://lh4.googleusercontent.com/-kd5g5vhrjCE/AAAAAAAAAAI/AAAAAAAAAAA/QHXjB7P_A4E/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Luisa Kitahara",
+                    "comment" : "Amazing place to stay in one of the best neighborhoods of NYC. The hotel is very charming with a lovely garden and coffee. Very close to the highline and Chelsea market, as well as having a very good restaurant crossing the street. The hotel room is very comfortable and classic and the hotel is pet friendly which worked perfectly for me and my 2 shitzus. The staff was really helpful and friendly and all the hotel very clean.",
+                    "rating" : 5,
+                    "user_image" : "https://lh3.googleusercontent.com/-poziPNiUe6A/AAAAAAAAAAI/AAAAAAAAAAA/F3Xu06bxcHY/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "Mr. C Seaport",
+            "phone" : "+1 212-766-6600",
+            "website" : "mrchotels.com",
+            "address" : "33 Peck Slip, New York, NY 10038, United States    ",
+            "longitude" : -74.0664222,
+            "latitude" : 40.727079,
+            "hotel_detail" : "Adjacent to the Brooklyn Bridge and the East River, this cosmopolitan hotel is a mile from One World Trade Center and a 6-minute walk from Wall Street Plaza. Fashionable rooms with contemporary decor feature smart TVs, Italian linens and rainfall showers. Open-plan, 1- to 3-bedroom suites offer bridge and river views. Most have furnished terraces.A posh restaurant serves Italian fare, while a slick bar offers cocktails. Other amenities include a gym, personal training and babysitting service.",
+            "image" : [
+                "https://lh5.googleusercontent.com/proxy/q4C5mjoSZLVNRG0ayrmn1n-w9Yzvx9QqBagGuKYw8AopoSWaH9R7f3cgo3Jo-UIdV4YV8SKH9QM5wheHIz426HlBzy4HMh0sZJYUtP0fpK9vME4yAenTediENYspot8tyQRVZf1PtZOWdCCSnar_kr4npUCRtAo=w408-h409-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/154/154006142.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/182/182771163.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/176/176948809.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/152/152971033.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Emma Ruehl",
+                    "comment" : "Cute little hotel tucked away from the hustle and bustle of the financial district. Welcome drink at check in was a pleasant surprise. Room was stylish and tastefully decorated. Extra thick drapery helped to block light and most of the noise. Although conversation on the street below could be heard clearly in the room. Bed was comfortable with large pillows. Shower took nearly 10 minutes to warm up. It was at 3.30am so possibly during normal hours it isn’t such an issue. Staff was extremely attentive to my needs and the place is small enough that they remembered me throughout my stay. Their was a house car available for short trips during limited hours but this was quite handy to have.",
+                    "rating" : 5,
+                    "user_image" : "https://lh6.googleusercontent.com/-c10FZykvI2I/AAAAAAAAAAI/AAAAAAAAAAA/47TRIOVdoUc/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Mel Jovanen",
+                    "comment" : "Went to NYC for one night to see a concert with a friend.  My room had filthy dark brown water for my whole stay.  I could shower, wash my face or brush my teeth.  The hotel apparently had a problem in the boiler but no one contacted me to notify me.  They did not offer bottled water or any accommodation.  They provided a partial refund but even after the refund I payed $180 to stay in a room with out the most amenity.  Really disappointed by my stay, how the situation was handled while I was there and the lack of a full refund.",
+                    "rating" : 4,
+                    "user_image" : "https://lh5.googleusercontent.com/-hx0vQagymqI/AAAAAAAAAAI/AAAAAAAAAAA/I-bHKmGq5FQ/w60-h60-p-rp-mo-ba5-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Charlene Drakes",
+                    "comment" : "Love this Hotel in the heart of the Seaport.  The two top floors have balcony rooms with a  fully stocked mini bar.  Very friendly and accommodating staff. Pet friendly, clean European-style state of the art decor and modern.  Great restaurant downstairs.  Breathe taking view of the Seaport area & Brooklyn bridge on the balcony. Parking available additional fee.  I was able to find free parking.  There are a lot of small restaurants/bars nearby.",
+                    "rating" : 5,
+                    "user_image" : "https://lh6.googleusercontent.com/-KOoJcm4DflI/AAAAAAAAAAI/AAAAAAAAAAA/qMOvAL1rhHo/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Adrian T.",
+                    "comment" : "Great service, exceeded expectations! We were here off season so it was especially quite, super nice service, great and sparkling clean room.Complementary stylish bikes, really nice touches here and there. ",
+                    "rating" : 2,
+                    "user_image" : "https://lh6.googleusercontent.com/-MDXGVtKoHGk/AAAAAAAAAAI/AAAAAAAAAAA/fBZdqGj1EgM/w60-h60-p-rp-mo-ba2-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Julia Rogers",
+                    "comment" : "Mr. C is the highest quality and luxury hotel in NYC hands-down. From the service to the food, to the class and location makes it feel like you are in the streets of Italy. It is quiet and peaceful for being so close to the busy Brooklyn bridge. I highly recommend you staying at mr c and enjoying an experience like no oth",
+                    "rating" : 3,
+                    "user_image" : "https://lh5.googleusercontent.com/-vBuZQGlBnqE/AAAAAAAAAAI/AAAAAAAAAAA/ELmRrzRTuq8/w60-h60-p-rp-mo-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "Residence Inn by Marriott New York Downtown Manhattan/World Trade Center Area",
+            "phone" : "+1 212-600-8900",
+            "website" : "marriott.com",
+            "address" : "170 Broadway, New York, NY 10007, United States",
+            "longitude" : -74.0119067,
+            "latitude" : 40.7095628,
+            "hotel_detail" : "In an early 20th-century building within the Financial District, this modern extended-stay hotel is 1 block from a subway station and an 8-minute walk from the National September 11 Memorial & Museum.Stylish studios come with kitchens desks, free Wi-Fi and flat-screen TVs. Some upgraded studios add pull-out sofas and/or city views.Hot breakfast is complimentary Other amenities include a grocery delivery service and a 24/7 convenience store, as well as a fitness center, a business center and guest laundry facilities.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipOcupNZWDGsKb5PVnZtOWlk3Sqg5j1tLGozqqSg=w426-h240-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/189/189590972.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/189/189591358.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/189/189592771.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/442/44222885.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "John Lombardo",
+                    "comment" : "Good place. They forgot to clean our room once though Update; You really should read the review I gave instead of just giving a canned response. I mentioned a real problem you have with forgetting to clean the room, but your response looks like a copy paste job. It looks like you don't even read but I wrote. Good luck with that.",
+                    "rating" : 4,
+                    "user_image" : "https://lh6.googleusercontent.com/-K9G4lI13YHE/AAAAAAAAAAI/AAAAAAAAAAA/E0KgdaMomTI/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Braden Lake",
+                    "comment" : "The room was wonderful, and the location was great.  There is a security guard stationed at the door sometimes.  At the rate for this hotel, there really should be someone to meet and great you close to the door.  The housekeeping did not always replace everything each day.  I also left some things behind and asked that they overnight it.  They told me no problem, but when I followed up with them 3 days later they had not sent it out.",
+                    "rating" : 3,
+                    "user_image" : "https://lh5.googleusercontent.com/-0DMVYlbUnXI/AAAAAAAAAAI/AAAAAAAAAAA/jIFMFD308zI/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Brent L",
+                    "comment" : "It's not the most fancy hotel, but here's what you get: good price, great staff, solid breakfast option, rooms that you can stretch out in, a kitchen that makes your trip easy to manage, and a location that works for anything. I've stayed at posher hotels, and yes, they're nice, but when I'm staying in the financial district for more than 4 days... This place is perfect. I love it.",
+                    "rating" : 5,
+                    "user_image" : "https://lh4.googleusercontent.com/-IIF7kutDQNA/AAAAAAAAAAI/AAAAAAAAAAA/R1forqPGGb0/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Rock Star",
+                    "comment" : "Me and my husband came to Newyork for his offial trip. This is our third time here.. we have never been disappointed.. I have been many hotels but This is the best hotel in my life so far. Everything is amazing from check-in to check-out!!!!",
+                    "rating" : 2,
+                    "user_image" : "https://lh6.googleusercontent.com/-4_bSKUf3e4g/AAAAAAAAAAI/AAAAAAAAAAA/h_JQdP3ZGzE/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Jonathan Wilson",
+                    "comment" : "Very easy hotel for access to Eall Street and the financial district. Lots of shopping and major transportation hubs nearby. Complimentary breakfast is clutch and features Starbucks coffee. Quiet with lots of international and business travelers.",
+                    "rating" : 3,
+                    "user_image" : "https://lh3.googleusercontent.com/-hTgzDF3HtFY/AAAAAAAAAAI/AAAAAAAAAAA/h4G8dE0d8KA/w60-h60-p-rp-mo-ba6-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "DoubleTree by Hilton New York Downtown",
+            "phone" : "+1 212-480-9100",
+            "website" : "hilton.com",
+            "address" : "8 Stone St, New York, NY 10004, United States",
+            "longitude" : -74.0145426,
+            "latitude" : 40.7039466,
+            "hotel_detail" : "Occupying a modern building in Lower Manhattan's Stone Street Historic District, this polished hotel is a 5-minute walk from Wall Street, a 7-minute walk from The Battery park, and a 15-minute stroll from One World Trade Center.Warm rooms include custom-designed beds, 49-inch flat-screen TVs and complimentary Wi-Fi. Suites add separate living areas. Some rooms and suites offer river or city views.A casual restaurant serves a breakfast buffet and all-day a la carte meals. Additional amenities include a gym, a meeting room and a 24-hour business center.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipPYKowc7LzcynoEQh1KAoJcghiktneENWEaJXt3=w408-h271-k-no",
+                "https://q-cf.bstatic.com/xdata/images/landmark/max1024/205675.webp?k=0dbf3e44da360d4aabd9d979227b3e09decba6f74565202b485913266bce731d&o=",
+                "https://q-cf.bstatic.com/xdata/images/landmark/max1024/212233.webp?k=ce4e25508d8d3e24209ac1456a8dad57010a29997a820a5d02c8626041fe49ed&o=",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/536/53672241.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/560/56050617.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Henrietta Lyons",
+                    "comment" : "Fun, quiet, clean and artsy. Enter the courtyard and leave the busy city behind. A bit off the beaten track but close enough to the Muni to get around the city without your vehicle. The front desk staff are friendly, kind and helpful (Tiffany was so patient with our check in). The rooms are small, but far bigger than the W which is easily twice the price. Love the courtyard and the murals on the wall. Enjoy!",
+                    "rating" : 4,
+                    "user_image" : "https://lh5.googleusercontent.com/-ioyVraJyJfA/AAAAAAAAAAI/AAAAAAAAAAA/KN_Ve5976tY/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "byron datus",
+                    "comment" : "The price was super competitive. The room was very clean and the bed was comfortable.  The WiFi worked well and I had no problems with latency.  The guest services staff were on point.  The bellhop was friendly, professional and helpful. I will come stay at this location again.  Thank you for the pleasant stay.",
+                    "rating" : 3,
+                    "user_image" : "https://lh4.googleusercontent.com/-6U1ZPGC_4Jc/AAAAAAAAAAI/AAAAAAAAAAA/5XBJjaowin4/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Shannon Stewart",
+                    "comment" : "Nice, clean room. No mini fridge in the room but that was probably the only thing I thought the room lacked. The staff were friendly and courteous. Only stayed 1 night but if I go back to NYC I'd definitely stay there again. Also there is not much surrounding the building as far as late night food/bars and room service/hotel kitchen is not available late night either so bring snacks just in case...",
+                    "rating" : 4,
+                    "user_image" : "https://lh6.googleusercontent.com/-dI41E_w5bBE/AAAAAAAAAAI/AAAAAAAAAAA/umaLsAfqPAQ/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Brooke O'Neill",
+                    "comment" : "The front desk staff were great, and the room was fantastic. Our view was amazing! We went with the city view and we were not disappointed. The cookie was perfect on a chilly NYC evening. Very reasonably priced and the beds were super comfy! A 5 minute walk to the metro and near some cool bars. If you haven’t booked already, what are you waiting for???",
+                    "rating" : 5,
+                    "user_image" : "https://lh3.googleusercontent.com/-gQrJ3_ELGkA/AAAAAAAAAAI/AAAAAAAAAAA/sdG7ecwqwOU/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "J. Ruiz",
+                    "comment" : "Stood here for a night while on business. A nice clean, cozy hotel room and a comfy bed. Room service was good with quick service.",
+                    "rating" : 3,
+                    "user_image" : "https://lh4.googleusercontent.com/-SF4odq3s_Os/AAAAAAAAAAI/AAAAAAAAAAA/IcCQtUrng3A/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "The Wall Street Inn",
+            "phone" : "+1 212-747-1500",
+            "website" : "thewallstreetinn.com",
+            "address" : "9 S William St, New York, NY 10004, United States",
+            "longitude" : -74.0211087,
+            "latitude" : 40.7039706,
+            "hotel_detail" : "Set in an 1836 building that once housed Lehman Brothers, this refined hotel in the Financial District is a 4-minute walk from the New York Stock Exchange and the nearest subway, and 6 miles from the Empire State Building. Warm rooms with traditional furnishings and marble bathrooms offer flat-screen TVs and free Wi-Fi, plus minifridges. Upgraded rooms add sitting areas with pull-out sofas. Room service is available. A continental breakfast buffet is complimentary. Other amenities include a gym and a sauna.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipMb5klEgUc31vw6_W3aoSnDIAZm3TgvrLAZYEgf=w408-h271-k-no",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/934/93460598.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/917/91760191.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/465/46530515.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/465/46532011.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Carrie Meushaw",
+                    "comment" : "We had a lovely stay! Front desk very friendly, room was a good size including the bathroom. Decor is a plus for me over the more modern sleek hotel options. They also do breakfast 7-10 which we missed but nice that it’s available!",
+                    "rating" : 4,
+                    "user_image" : "https://lh4.googleusercontent.com/-C8v4V_CdagE/AAAAAAAAAAI/AAAAAAAAAAA/UWI29R7rC2M/w60-h60-p-rp-mo-ba2-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Zara A",
+                    "comment" : "Always a pleasure to have a short holiday in the Financial District. Best hotel indeed",
+                    "rating" : 5,
+                    "user_image" : "https://lh6.googleusercontent.com/-dAhpItYjNoQ/AAAAAAAAAAI/AAAAAAAAAAA/-1BycIoULQE/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Amy Smits",
+                    "comment" : "This was truly the nicest experience we've had at a hotel.  The staff was amazing. They were kind and helpful.  The location is perfect and the free breakfast, coffee, tea and fruit all day long was a nice treat.  We will stay here again for sure!",
+                    "rating" : 3,
+                    "user_image" : "https://lh6.googleusercontent.com/-_8uSkyahVRQ/AAAAAAAAAAI/AAAAAAAAAAA/29B4Jj1LcLY/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "alyssa williams",
+                    "comment" : "This place is very close to the staten island ferry. Its walking distance. Kind staff and very clean establishment . The rooms are decent it's an old inn so its alittle on the 90's side of decor. Comfortable beds and clean sheets . Also they have a great continental breakfast in the more . Checking in and out was so easy I would definitely  recommend this place for a short getaway or for a place to stay in the city.",
+                    "rating" : 5,
+                    "user_image" : "https://lh6.googleusercontent.com/-zAPaRtRmYQY/AAAAAAAAAAI/AAAAAAAAAAA/wNF1e1DKeIU/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Nick Metta",
+                    "comment" : "Great experience at The Wall Street Inn. I stayed here with my family for an overnight in NYC. The staff is extremely friendly and welcoming. A special mention  for Tatiana, at the front desk, who was exceptionally nice. We enjoyed complimentary luggage storage before check-in and after check-out. Breakfast was very good, included in our rate as well. Parking garage across the street. Call hotel reception for special rate. Room comfortable, clean and quiet. Overall a very satisfactory experience.",
+                    "rating" : 3,
+                    "user_image" : "https://lh6.googleusercontent.com/-kOnvKcu2ku4/AAAAAAAAAAI/AAAAAAAAAAA/7WsFVdvTIO4/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "New York Marriott at the Brooklyn Bridge",
+            "phone" : "+1 718-246-7000",
+            "website" : "marriott.com",
+            "address" : "333 Adams St, Brooklyn, NY 11201, United States",
+            "longitude" : -73.9973194,
+            "latitude" : 40.693705,
+            "hotel_detail" : "A 2-minute walk from the Jay Street-MetroTech subway station, this upscale hotel is 8 minutes' walk from the Brooklyn Bridge and 2 miles from the One World Trade Center observation deck.Sleek rooms have flat-­screen TVs, Wi-Fi (fee) and desks, plus minifridges and coffeemakers; some add pull-out sofas and/or or city views. Suites offer living areas; some include balconies and/or kitchenettes. Club quarters provide access to a lounge with free breakfast and snacks.There's a relaxed American restaurant, a bar and a snack shop, as well as an indoor pool, a spa and a fitness center. Other amenities include 26 meeting rooms and a business center.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipNfJkMhTqkk2hoINtssa-AIBJ-2qCu8aPqA7qAw=w408-h576-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/210/21011176.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/205/205823398.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/480/48013552.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/125/125900482.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Gerry Nicholls",
+                    "comment" : "The main driver for 5 stars was had a really nice check in experience with the hotel staff. The attendant was friendly thorough and quick. Room was recently redone and nice. The breakfast buffet is  overly expensive and I don’t recommend. Overall room rate with no refund but in advance was very competitive.",
+                    "rating" : 5,
+                    "user_image" : "https://lh5.googleusercontent.com/-nH5u991FjJQ/AAAAAAAAAAI/AAAAAAAAAAA/wEtlWAYCRy0/w60-h60-p-rp-mo-ba2-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Rome Odom",
+                    "comment" : "This hotel exceeded my standards. The staff was amazing, making a last minute change to my booking dates. The room was modern, clean and very comfortable. The location was great; close to great shopping, restaurants and of course the Brooklyn Bridge and parks. It was refreshing to stay at a property out of Manhattan yet so conveniently close.",
+                    "rating" : 4,
+                    "user_image" : "https://lh4.googleusercontent.com/-BAvBI9iEqTE/AAAAAAAAAAI/AAAAAAAAAAA/tvQ2o2x-CII/w60-h60-p-rp-mo-ba6-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Necole Adkison",
+                    "comment" : "Affordable prices. One of my favorite hotel. Great services was provided by great staff. Great bar section. Room was beautiful with beautiful view.  I liked the decor. Interior was beautiful.",
+                    "rating" : 3,
+                    "user_image" : "https://lh4.googleusercontent.com/-HiuHtrvfKU0/AAAAAAAAAAI/AAAAAAAAAAA/Q1D4xjfj6DQ/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Michael Baus",
+                    "comment" : "Rooms with a view are worth the extra $$. I had a corner room on the 21st floor, and the Statue of liberty could be seen between two buildings from the main window along with the harbor to the south was all open a good view and on a side window the Manhattan bridge and Brooklyn bridge could be seen. Desk was 2 stars for check in, but housekeeping was 5 stars, room was in great shape and housekeeping kept it that way for our 4 night stay. Also I enjoyed the quietness in our room which was a giant Plus. Swimming pool and locker area is clean. I went for a swim and recommend it. A lot of hotels don't have pools. Prices can be high so look for the discounts. I recommend this hotel.",
+                    "rating" : 4,
+                    "user_image" : "https://lh5.googleusercontent.com/-ldfrZXxWKZw/AAAAAAAAAAI/AAAAAAAAAAA/WkEhEgXEyio/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Pierre Emeran",
+                    "comment" : "Always a clean, well kept and pleasant hotel.  I usually attend for seminars and/or other special workshop events.  Staff are usually communicative and sociable.",
+                    "rating" : 3,
+                    "user_image" : "https://lh5.googleusercontent.com/-ldfrZXxWKZw/AAAAAAAAAAI/AAAAAAAAAAA/WkEhEgXEyio/w60-h60-p-rp-mo-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "NU Hotel Brooklyn",
+            "phone" : "+1 718-852-8585",
+            "website" : "nuhotelbrooklyn.com",
+            "address" : "85 Smith St, Brooklyn, NY 11201, United States",
+            "longitude" : -73.9973195,
+            "latitude" : 40.693729,
+            "hotel_detail" : "A 4-minute drive from the Barclays Center, this modern boutique hotel is 0.7 miles from the Brooklyn Academy of Music arts venue and 4 blocks from a subway station.The airy, loft-style rooms have free Wi-Fi, desks, minibars, TVs and cork floors; suites add sitting areas, coffee tables and music systems. Some suites come with bunk beds, murals painted by local artists and lounging hammocks.A surcharge covers continental breakfast, loaner bikes, and use of the 24-hour gym and business center. There's also a trendy bar and lounge with cocktails and Spanish-style fare.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipNUO2_GktL1op9qGeCGJoyfrV1xirDc2tM0cFx8=w426-h240-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/348/34810508.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/202/20242754.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/951/95194902.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/137/137990476.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Nishtha Jain",
+                    "comment" : "The main driver for 5 stars was had a really nice check in experience with the hotel staff. The attendant was friendly thorough and quick. Room was recently redone and nice. The breakfast buffet is  overly expensive and I don’t recommend. Overall room rate with no refund but in advance was very competitive.",
+                    "rating" : 5,
+                    "user_image" : "https://lh6.googleusercontent.com/-H2vzsqqDkFw/AAAAAAAAAAI/AAAAAAAAAAA/vCBuAget0eY/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Marc Scheff",
+                    "comment" : "Great clean roomy rooms. The urban suite hammock is so cool. Great service the whole way. Looking forward to going back!",
+                    "rating" : 4,
+                    "user_image" : "https://lh3.googleusercontent.com/-x5jxsnw3TVs/AAAAAAAAAAI/AAAAAAAAAAA/0tpS1sCW6fM/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "João Paulo Lages",
+                    "comment" : "Great rooms. Super tidy and clean. Nice breakfast. Great staff. Near subway and downtown Brooklyn.",
+                    "rating" : 3,
+                    "user_image" : "https://lh5.googleusercontent.com/-g6vnpBZfao0/AAAAAAAAAAI/AAAAAAAAAAA/573xuI6lKe4/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "CIRCUIT TREE",
+                    "comment" : "It was the first new hotel in our neighborhood after gentrification and I love it. One of my ex girlfriends did one of the mini murals in the rooms. I love that they had local artists contribute to the art on the walls.",
+                    "rating" : 4,
+                    "user_image" : "https://lh5.googleusercontent.com/-yUSgNCzWIDg/AAAAAAAAAAI/AAAAAAAAAAA/n2PCgwEQKxE/w60-h60-p-rp-mo-ba6-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Adam Rhine",
+                    "comment" : "Super nice hotel, price was reasonable and there was fresh coffee waiting in the lobby for me when I woke up. Can't ask for more than that, staff was also very accommodating.",
+                    "rating" : 3,
+                    "user_image" : "https://lh4.googleusercontent.com/-hzW2Orln220/AAAAAAAAAAI/AAAAAAAAAAA/2ggroxnx_IM/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "Hotel Beacon",
+            "phone" : "+1 212-787-1100",
+            "website" : "beaconhotel.com",
+            "address" : "2130 Broadway, New York, NY 10023, United States",
+            "longitude" : -73.9897719,
+            "latitude" : 40.7806964,
+            "hotel_detail" : "Next to the Beacon Theatre, this upscale hotel in the Upper West Side is a 4-minute walk from the subway station, a mile from Central Park and 10 minutes' walk from the American Museum of Natural History.The polished rooms have kitchenettes, marble bathrooms, flat-screen TVs and free Wi-Fi. The 1- and 2-bedroom suites add separate living rooms with sofabeds, and upgraded suites feature furnished terraces.There's a sleek bar with seasonal terrace seating. Other amenities include 5 meeting rooms and a coin-operated laundry.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipNMxAMQJFseptT_ljWn7uw20TZjXpJ4j3IJphMk=w408-h271-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/242/242359628.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/241/241018645.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/241/241021554.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/241/241018671.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Joost Douma",
+                    "comment" : "Great hotel with very friendly and helpful staff, especially Matt the doorman!  Fantastic location, also right near the metro which is an express stop, which makes getting to mid town and downtown really easy and quick.  Close to good bars and restaurants too.  Great for a travelling family with a kitchenette and great market store right across the road.  Slightly small and dated bathrooms, but nothing to complain about.  Very spacious living room and bedrooms.",
+                    "rating" : 5,
+                    "user_image" : "https://lh5.googleusercontent.com/-HcqI-W8lfj0/AAAAAAAAAAI/AAAAAAAAAAA/0GrUJN_NRSk/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Jane Bailey",
+                    "comment" : "It's a  Beautiful hotel to stay i have stayed here for three day with my Boyfriend and i am glad that i stayed in this beautiful hotel, great location and really good rooms. they provide really good services. they provide nice place for parking, The food in the restaurant is delicious and Bar is so beautiful they serve good drinks. The hotel staff is really good  they are professional and friendly, the housekeeping service is always on time. Rooms are well organized and cleaned. 5 stars!!!",
+                    "rating" : 4,
+                    "user_image" : "https://lh5.googleusercontent.com/-L5n13SfH5qI/AAAAAAAAAAI/AAAAAAAAAAA/USLFGDFZ-dw/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Paul Gomez",
+                    "comment" : "It had a good location, clean, quite. The room had 2 queen beds with a window view and the bathroom was comfortable. It's near 2 grocery stores, next to a Starbucks, and a block away from a Subway station. I travelled with my 4 year old daughter and it was a very good choice. The only thing we had a problem was with the toilet which did not flushed well. We had to flush like 4 or 5 times for what a single flush will do in Florida. Not sure if it was supposed to work like that.",
+                    "rating" : 3,
+                    "user_image" : "https://lh6.googleusercontent.com/-JmQ5IYlb1kc/AAAAAAAAAAI/AAAAAAAAAAA/Qx7tmjtQwxo/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "O H",
+                    "comment" : "Our 2nd time staying. Fantastic location on the uws, with small kitchens in the rooms. Great front desk staff. Only criticism is the water pressure is low so the showers aren't great. If you want to stay close to the action but not in it, it's a great option.",
+                    "rating" : 4,
+                    "user_image" : "https://lh5.googleusercontent.com/-ui7tMQo2RIo/AAAAAAAAAAI/AAAAAAAAAAA/bzunfKRXjIg/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Dionis Fernandez",
+                    "comment" : "Great place to stay on vacations. Amazing service, will come back.",
+                    "rating" : 2,
+                    "user_image" : "https://lh4.googleusercontent.com/-7-gw6lFpv1U/AAAAAAAAAAI/AAAAAAAAAAA/OMpvjn7mHsw/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "West Side YMCA",
+            "phone" : "+1 212-912-2600",
+            "website" : "ymcanyc.org",
+            "address" : "5 W 63rd St., New York, NY 10023, United States",
+            "longitude" : -73.9897719,
+            "latitude" : 40.7807204,
+            "hotel_detail" : "Next to the Beacon Theatre, this upscale hotel in the Upper West Side is a 4-minute walk from the subway station, a mile from Central Park and 10 minutes' walk from the American Museum of Natural History.The polished rooms have kitchenettes, marble bathrooms, flat-screen TVs and free Wi-Fi. The 1- and 2-bedroom suites add separate living rooms with sofabeds, and upgraded suites feature furnished terraces.There's a sleek bar with seasonal terrace seating. Other amenities include 5 meeting rooms and a coin-operated laundry.",
+            "image" : [
+                "https://lh3.googleusercontent.com/proxy/RhUk-ii6dChuVSilMof6FXlt2GnvE_3sPYMMGTkIntMFAIavwIFhohs4rR-GAtlUCCCyfXYVaCWbout0e9OQFRSMKmcTJlq-ZqCjPCb5q47HFdCTfez8vJ2BRGtL41cDVXz5QF2oGixau-c0MELW6DAvLhrrzg=w437-h240-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/333/33309672.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/204/204079790.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/204/204079315.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/204/204079332.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Maxime Blais",
+                    "comment" : "We have slept 3 nights out there. I Employees were courteous. The room was well maintained but the showers.",
+                    "rating" : 4,
+                    "user_image" : "https://lh5.googleusercontent.com/-wQz9hZJLAsE/AAAAAAAAAAI/AAAAAAAAAAA/PItzBv67UCE/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "SJ L. Y",
+                    "comment" : "Nice location, mediocre facilities- I got a room that looks just like the one in the photos (no hairdryers tho)... I did my research and this is the only hotel you can get a private room around $100 a day in midtown - safe location with nice security- the safe actually works! - never waited to use the shower and had hot water every day.. had no hygienic issues with the room or bathroom but I would rather not use it bare feet.. just bring a flipflop to wear in the shower and it will be okay FYI they charge an extra $10 a day for fitness and the swimming pool which I never used.. which kinda sucks",
+                    "rating" : 3,
+                    "user_image" : "https://lh3.googleusercontent.com/-pjpVimsP6SU/AAAAAAAAAAI/AAAAAAAAAAA/YzXRIlY8Eyo/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Audrey Weiss",
+                    "comment" : "I come here for the pool.  Pretty clean but very busy.",
+                    "rating" : 3,
+                    "user_image" : "https://lh3.googleusercontent.com/-kFcMYR2c1dg/AAAAAAAAAAI/AAAAAAAAAAA/PD4hUoWTuBE/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Arm Andrea",
+                    "comment" : "The price was very afford for this time of the year. The location was excellent. The showers only had cold water. I didn't know they don't stock wash cloths. I had to call to get the bathroom code. The beds were uncomfortable. I didn't feel safe climbing the bunk bed. It's a very convenient place, especially if you're on a budget. But it's best to save up and go elsewhere.  I've stayed in better hostels.",
+                    "rating" : 2,
+                    "user_image" : "https://lh4.googleusercontent.com/-BL2K36xmb1Y/AAAAAAAAAAI/AAAAAAAAAAA/lEG8qbZvq_0/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "roazz .",
+                    "comment" : "It makes my anxiety sky rocket. Disgusting place.",
+                    "rating" : 1,
+                    "user_image" : "https://lh3.googleusercontent.com/-BwhFdJ18HKw/AAAAAAAAAAI/AAAAAAAAAAA/fHoD-FGe5Gs/w60-h60-p-rp-mo-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "Shoreham Hotel",
+            "phone" : "+1 212-247-6700",
+            "website" : "shorehamhotel.com",
+            "address" : "33 W 55th St, New York, NY 10019, United States",
+            "longitude" : -73.9893307,
+            "latitude" : 40.7709512,
+            "hotel_detail" : "In Midtown, this sleek, high-end hotel is a 5-minute walk from Central Park, a block from the shopping on 5th Avenue and 2 miles from the Metropolitan Museum of Art.With marble and slate bathrooms, the chic rooms with minimalist decor feature flat-screen TVs, BOSE Wave radios and minifridges. WiFi is available for a fee. Suites have separate living areas, and some add massage chairs.Amenities include a hip cocktail bar, a grill restaurant and a 24-hour fitness center. Valet parking is available for a fee.",
+            "image" : [
+                "https://lh6.googleusercontent.com/proxy/7cq-PNMDJd3HgAE5bH6DpGXHW07bKwBYRxkFe6jJNUkvzV5JskQsOxzlK05IhkKbmtZbeIpUDPabaMI4gH0ImVL5VcbYu1Q7fHC7pRgpTE0akdn830awpBal5nhAPScE09cwPRcxAOo60OdpJdOKrfBciOo37LY=w412-h240-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/228/228177186.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/228/228177024.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/228/228176442.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/104/104810542.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Sweetntwiztid Lette",
+                    "comment" : "I loved the cleanliness of the hotel. The front desk clerks were always nice and informative no matter what time of day. The room was spacious and well lit. Next trip we will be staying here again. The location is also close to the park and shopping.",
+                    "rating" : 5,
+                    "user_image" : "https://lh4.googleusercontent.com/-OAb0agS7uLg/AAAAAAAAAAI/AAAAAAAAAAA/aAliFi8bxXs/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Chris Chu",
+                    "comment" : "Great location close to everything you want to be around if you're a tourist. Only two block away from central park and very close to 5th Avenue. Room is tidy by quite compact. Rooms also starting to look a bit dated. Window out to a concrete wall. Service overall very good for what we needed. Lifts system is bit confusing but not impossible to use.",
+                    "rating" : 4,
+                    "user_image" : "https://lh6.googleusercontent.com/-khBQ-HnCDDQ/AAAAAAAAAAI/AAAAAAAAAAA/cnGO7rp_p4k/w60-h60-p-rp-mo-ba5-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Robert Higgins",
+                    "comment" : "Hotel staff was helpful and responsive. Room was large by NYC standards and I felt it was good value for the money.  The hotel is showing a little wear.  I've stayed here in the past and I would stay here again. The carpeting in the room can be refreshed.",
+                    "rating" : 3,
+                    "user_image" : "https://lh5.googleusercontent.com/-A3YtBpbfgYw/AAAAAAAAAAI/AAAAAAAAAAA/uotua8GwZMI/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Nermean Khatib (IL CCP SGO 20)",
+                    "comment" : "My first time visiting NYC, I would say this place was the worst hotel by far. No refrigerator or microwave available in room. No vending machines or iceboxes available. Overpriced. The sink and bathroom was super small and the rooms are too close together to the extent where all I heard were doors slamming all night and day.",
+                    "rating" : 1,
+                    "user_image" : "https://lh5.googleusercontent.com/-_topEOpBFL4/AAAAAAAAAAI/AAAAAAAAAAA/A3ocBCO59W8/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Udo Kr",
+                    "comment" : "Good hotel for this price in this area. Recommended to stay for Sightseeing!",
+                    "rating" : 1,
+                    "user_image" : "https://lh6.googleusercontent.com/-Is6vp5blpcg/AAAAAAAAAAI/AAAAAAAAAAA/TCCaXYUP3Wo/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "Econo Lodge Times Square",
+            "phone" : "+1 646-993-2714",
+            "website" : "choicehotels.com",
+            "address" : "302 W 47th St, New York, NY 10036, United States",
+            "longitude" : -73.9851178,
+            "latitude" : 40.7625228,
+            "hotel_detail" : "A 5-minute walk from the 49th Street subway station and 11 minutes’ walk from Radio City Music Hall, this modest budget hotel is 1.6 miles from the Museum of Modern Art. Basic rooms featuring simple furnishings include free Wi-Fi, desks, coffeemakers and flat-screen TVs. Upgraded rooms add iPod docks and minifridges. Continental breakfast is complimentary. Additional amenities include a business center, bike rentals and a convenience store.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipMt2N3zU-pvy2GbDIEmIGEhGtAzlrMRhDSPjlXc=w426-h240-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/169/169892707.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/169/169892395.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/169/169892455.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/169/169892497.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Mario Alvarado Jr.",
+                    "comment" : "I didn't actually love it but I gave it 5 stars cause it didn't break the bank. The staff service was good, the location we fantastic. Hotel was old and small but we didn't spend any time there at all anyway. They held our bags complimentary before checking in to see the sites and after checking out as well. Good visit",
+                    "rating" : 5,
+                    "user_image" : "https://lh3.googleusercontent.com/-bj4oYS4-n04/AAAAAAAAAAI/AAAAAAAAAAA/Q2kGfw5RY44/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Brett Moore",
+                    "comment" : "Worth what I paid. Definitely. Tiny tiny room, but that’s New York, right? Great views from the room. Randomly switched our shower curtain one day to one that didn’t fit and we about flooded the bathroom. Never made it down to breakfast, but it seemed decent. I’d definitely stay here again for the price and location. Everything was clean and there. (Sorry. Didn’t take pictures of the ",
+                    "rating" : 2,
+                    "user_image" : "https://lh4.googleusercontent.com/-ifwFUXBcaUc/AAAAAAAAAAI/AAAAAAAAAAA/moq4ucoLRe8/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Jim McGuire",
+                    "comment" : "Nicely welcomed to the hotel. All info required by Clients was very well explainedThe rooms are pretty cheap in cost but are close to Times Sqare.the rooms are quite small but you only need a place to put your head at night.",
+                    "rating" : 5,
+                    "user_image" : "https://lh3.googleusercontent.com/-jG7aX2S9dR0/AAAAAAAAAAI/AAAAAAAAAAA/KQDR6ueCil8/w60-h60-p-rp-mo-ba2-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Maddy Martin",
+                    "comment" : "Poor service. Broken items (elevator and air conditioning units) No apologies from staff.The free breakfast is a small coffee station. Booked 6 months in advance and they didn't even have the room we booked. Rooms are appalingly tiny. Fine for one night, but don't bother if you're staying for any longer.",
+                    "rating" : 1,
+                    "user_image" : "https://lh3.googleusercontent.com/-jG7aX2S9dR0/AAAAAAAAAAI/AAAAAAAAAAA/KQDR6ueCil8/w60-h60-p-rp-mo-ba2-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "zxdubz",
+                    "comment" : "Rooms are small which is to be expected but they are clean. Being so close to times square the rooms are so noisy, it's literally like sleeping outside so use the ear plugs provided. At 1 point we were looking for another hotel after having no sleep for 3 nights. The rooms are cold and have a funky smell about them. The TV has 2 channels which are news channels and that's all. We asked twice for someone to come and sort it out but they aren't interested. Breakfast is toast and cereal which was expected. I wouldn't recommend this hotel as there's others that are nicer and quieter.",
+                    "rating" : 2,
+                    "user_image" : "https://lh4.googleusercontent.com/-f0RsFn1IHIU/AAAAAAAAAAI/AAAAAAAAAAA/yMCVTGdJbZ4/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "citizenM New York Times Square Hotel",
+            "phone" : "+1 212-461-3638",
+            "website" : "citizenm.com",
+            "address" : "218 W 50th St, New York, NY 10019, United States",
+            "longitude" : -73.9902636,
+            "latitude" : 40.7605821,
+            "hotel_detail" : "A 5-minute walk from the 49th Street subway station and 11 minutes’ walk from Radio City Music Hall, this modest budget hotel is 1.6 miles from the Museum of Modern Art. Basic rooms featuring simple furnishings include free Wi-Fi, desks, coffeemakers and flat-screen TVs. Upgraded rooms add iPod docks and minifridges. Continental breakfast is complimentary. Additional amenities include a business center, bike rentals and a convenience store.",
+            "image" : [
+                "https://lh5.googleusercontent.com/p/AF1QipNqfjNDFQ5FrzkhSyjukoIGl_Hwo1RAtVp9As3Y=w408-h408-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/326/32637874.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/326/32637915.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/199/199857401.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/724/72439028.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Fkod",
+                    "comment" : "I was amazed by the check-in experience, which took me like 30 seconds and I did it all myself! The lobby has a fantastic design, the rooms are small but the view is amazing. “Smart home” controls on the iPad are nice. Location is prime. All in all, especially taking into account very attractive price for this area, this was the best hotel I stayed at in NY ever. And probably among the best for short stays you could think of. Great breakfast too.",
+                    "rating" : 5,
+                    "user_image" : "https://lh3.googleusercontent.com/-jhAuNh1bjyE/AAAAAAAAAAI/AAAAAAAAAAA/wpfVY1AKNYI/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Skye .",
+                    "comment" : "Really interesting hotel.My initial thought when walking in was small but that doesn't detract from the contemporary charm.It's also quite possibly the equivalent of if hipster came in hotel form.It's missing some of the things I'd expect in a hotel, like... conditioner. Not just AM or PM shampoo, which itself is an odd designation.Location can't be beat, price is great, but definitely challenging for a family of 2 adults and a baby to be cozy. Bachelor or couple having a weekend away? Great.",
+                    "rating" : 2,
+                    "user_image" : "https://lh5.googleusercontent.com/-s0unzECVWr4/AAAAAAAAAAI/AAAAAAAAAAA/XCK-wfcYm9s/w60-h60-p-rp-mo-ba5-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Keith Steele",
+                    "comment" : "I thought it was great. Perfect location for dinner and a show. 260 all in with city taxes was a bargain in my opinion. Super clean with a modern vibe. I would use it again.",
+                    "rating" : 5,
+                    "user_image" : "https://lh3.googleusercontent.com/-S5U3L810VXY/AAAAAAAAAAI/AAAAAAAAAAA/4hQhOWcWsCk/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Ricardo Lopez Aliouchkin",
+                    "comment" : "Excellent hotel! The rooms are small but the layout is perfect. It is super efficient with more than enough place to hang or store your clothes. The room was sparkling clean. The bed was very comfortable. The shower and bathroom were also excellent. The lighting was great. We even had a nice view! (partly blocked by other buildings, but we could still see part of the NYC skyline)The staff were very nice and helpful. The rooftop bar was super cool! ",
+                    "rating" : 3,
+                    "user_image" : "https://lh3.googleusercontent.com/-Lxr6Vh3it6Y/AAAAAAAAAAI/AAAAAAAAAAA/f8B0ynEMHis/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Mark Edward",
+                    "comment" : "Great Hotel and great service and staff. Very nice view from the roof top bar. The only comment I have is if the roof top bar could stay open till 2 or 3am. So you can keep enjoying the night with that amazing view.",
+                    "rating" : 2,
+                    "user_image" : "https://lh6.googleusercontent.com/-4IZP2HsCgQ4/AAAAAAAAAAI/AAAAAAAAAAA/BgAyC57ydcs/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "The Gallivant Times Square",
+            "phone" : "+1 212-246-8800",
+            "website" : "thegallivantnyc.com",
+            "address" : "234 W 48th St, New York, NY 10036, United States",
+            "longitude" : -73.9871433,
+            "latitude" : 40.7615774,
+            "hotel_detail" : "Within 3 minutes' walk of both the 7th Avenue and the 50th Street subway stations, this hip hotel is 1 mile from the Museum of Modern Art and a 9-minute walk from the Radio City Music Hall.The stylish rooms feature free Wi-Fi, iPod docks, flat-screen TVs and coffeemakers. Upgraded rooms add minifridges and/or fitness equipment. A top-floor suite has a private rooftop deck.There's a trendy lobby bar, as well as Japanese and Vietnamese restaurants. Other amenities include an exercise room and a business center, as well as meeting space. Indoor parking is available for a fee.",
+            "image" : [
+                "https://lh4.googleusercontent.com/proxy/8LrDx9pOwrraQgD9MwUSgh1nZt3mgnPO6xG3jlevLwWbuQ2tpWjKhrbZZ_jfxAkvzj-Djz5L-SP9CoVNlpO527VMxK6n3djFinBtnaGkOzaI-NMkiqmndY65PQmAYfWYeuL2VIzFgyR-gmGdUx-HxkSDASl9gw=w427-h240-k-no",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/108/108195138.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/216/216718088.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/216/216718094.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/216/216711621.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Daniel Otero",
+                    "comment" : "So We stayed here on New year's Eve and day, room was comfortable, clean , with all basic necessities for an overnight stay.  I chose the penthouse just to experience a bit of the festivities.  Great for AA party of 4 or 6 at rooftop. There is no bar, yet there is a tasteful Restaurant next on lobby not own by hotel.   Staff was friendly and helpful. Thanks for the attention I see myself in the future here...",
+                    "rating" : 5,
+                    "user_image" : "https://lh5.googleusercontent.com/-1fUVykFfNvo/AAAAAAAAAAI/AAAAAAAAAAA/HVBSCSy2WyM/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Carolyn Lange",
+                    "comment" : "After reading a few not so awesome reviews I was a bit concerned about my non'refundable booking, however I was pleasantly surprised by everything.  The gentleman that I encountered at the front desk was more than helpful and pleasant, our family room was clean and very accommodating for our family of 6...which is nearly impossible to find usually. The location was awesome for sightseeing. It was near a fire station, so there were a few times we heard trucks, but it is NYC, if you are expecting silence...go visit Montana or something.",
+                    "rating" : 2,
+                    "user_image" : "https://lh4.googleusercontent.com/-AfEfYmW95Gc/AAAAAAAAAAI/AAAAAAAAAAA/sQda5Raj4I4/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Andrea English",
+                    "comment" : "Cute hotel, went for a girls trip. Stayed in the family style room with 5 of us it was perfect, very clean. Only complaint is that there was hidden fees and nothing was explained properly by staff, the hotel itself is great, wonderful location.",
+                    "rating" : 4,
+                    "user_image" : "https://lh4.googleusercontent.com/-GwtQju6AV_w/AAAAAAAAAAI/AAAAAAAAAAA/tzCxqlh2rqw/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Ian Kirk",
+                    "comment" : "The hotel looks nice coming in. Great location but that's it. The room door was dodgy, shower fan didn't work and hung off the ceiling. The paint job looked like it was done by a 5 year old. The lights in the ceiling buzzed when on. Slept with our suitcase infront of the door as it opened an inch or so every time another door on our floor opened. The paint was peeling of the bathroom ceiling probably cos there was no  working extractor fan. So much attention to detail that could of made my rating better. Oh yeah and when I showed the pictures and explained it I was asked if I mentioned it. To which I said no, she said we have engineers, etc. I reminded her that an engineer may have fixed the fan, they would of needed a painting and decorating crew and to re-seal the tiles etc. I was only refunded 30 dollars which was a mandatory service hotel charge of 137 dollars, so I paid just over 100 dollars what a joke, should of paid nothing",
+                    "rating" : 3,
+                    "user_image" : "https://lh3.googleusercontent.com/-Sq4cL50i-EQ/AAAAAAAAAAI/AAAAAAAAAAA/DDMl2-mFC1w/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "JoJo's WORLD",
+                    "comment" : "The staff was nice, the location is good, literally up the street from M&M world. The room was hot, the A/C didn't work and the heat continued to blew in the first room that I was given. They moved me to a second room and it was the same. Someone was sent to the room to fix it but it wasn't, I just slept with the window open. Restroom super small and cramped.",
+                    "rating" : 2,
+                    "user_image" : "https://lh3.googleusercontent.com/-TkjbAh1yIc4/AAAAAAAAAAI/AAAAAAAAAAA/2a_cqfWEU6w/w60-h60-p-rp-mo-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "Courtyard by Marriott New York Manhattan/Central Park",
+            "phone" : "+1 212-324-3773",
+            "website" : "marriott.com",
+            "address" : "1717 Broadway, New York, NY 10019, United States",
+            "longitude" : -73.9850945,
+            "latitude" : 40.764346,
+            "hotel_detail" : "This modern hotel is an 8-minute walk from the Museum of Modern Art and 2 miles from Central Park.Contemporary rooms offer free Wi-Fi, desks with ergonomic chairs, flat-screen TVs with premium cable channels and iPod docks, plus minifridges and Keurig coffeemakers.Social spaces include a living room-style lobby and a sundeck. The American bistro serves breakfast and dinner as well as all-day drinks, including Starbucks coffee. There’s also a business center with workstations and printers, and 7 meeting rooms. Other amenities include an exercise room and a convenience store.",
+            "image" : [
+                "https://lh4.googleusercontent.com/proxy/ESy62puN3GpBlk9cf82a7n2mEx05V8xWUPwIRTZQOzo4dkA7xjZY7FZU0qf4xMeDNNgNE2w20MlOyiHsfSuOyxj603p9Z90hKkR16IAHt617uwZde__f9ijIk7bkNb9cC-y-ksCx8hU6-SPQcxCggX2f8zRdRDI=w408-h612-k-no",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/548/54838222.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/255/25532967.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/255/25533198.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max1024x768/548/54883822.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Andy Grace",
+                    "comment" : "Smaller rooms than I'm used to in Europe, though I understand that's the norm in NYC. Facilities pretty basic but then we were in New York, we never intended spending any more time than necessary in the room. Excellent location for exploring Mid-Town and Central Park on foot. Hotel facilities could be better promoted/signposted. There's a great bar on floor 4 that we only discovered whilst killing time waiting for our pick up back to the airport.",
+                    "rating" : 4,
+                    "user_image" : "https://lh3.googleusercontent.com/-aUCBnOloCQ0/AAAAAAAAAAI/AAAAAAAAAAA/BfS2RCZvnn4/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "JOANNA ARAMBULA",
+                    "comment" : "I’m late in writing my review from our trip in Dec 2018. Staff was amazing- we notified them about our special anniversary and they went above and beyond. When we arrived , we were told our room was upgraded and had a spectacular view of downtown, champagne and dessert was waiting for us too. Location is  perfect and allowed us to walk to Times Square, Central Park. We will definitely be staying here in the future!",
+                    "rating" : 2,
+                    "user_image" : "https://lh4.googleusercontent.com/-xKjG5F18pJE/AAAAAAAAAAI/AAAAAAAAAAA/tFBZLtMmAWs/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Elizabeth Delcid",
+                    "comment" : "The room was perfect and it was close to everything. However I left my ring at the hotel and forgot about it until it was too late. I call and the hotel said they check but there’s no way you check in 5 minutes in a slow service elevator. I kept calling and ask to be called back, but I never received a call back.  I been looking and trying to find it. It’s been 8 months and still nothing. Please anyone that works for the hotel or even to people that stayed if you find it please let me know. It’s a 14k gold diamond solitaire 1 carat ring, the front is frosty with one of the diamond holders being crooked. Thank you .",
+                    "rating" : 5,
+                    "user_image" : "https://lh5.googleusercontent.com/-FTkoz8g0Z3U/AAAAAAAAAAI/AAAAAAAAAAA/jsTZMREhLxQ/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Mel Khalifa",
+                    "comment" : "The hotel looks nice coming in. Great location but that's it. The room door was dodgy, shower fan didn't work and hung off the ceiling. The paint job looked like it was done by a 5 year old. The lights in the ceiling buzzed when on. Slept with our suitcase infront of the door as it opened an inch or so every time another door on our floor opened. The paint was peeling of the bathroom ceiling probably cos there was no  working extractor fan. So much attention to detail that could of made my rating better. Oh yeah and when I showed the pictures and explained it I was asked if I mentioned it. To which I said no, she said we have engineers, etc. I reminded her that an engineer may have fixed the fan, they would of needed a painting and decorating crew and to re-seal the tiles etc. I was only refunded 30 dollars which was a mandatory service hotel charge of 137 dollars, so I paid just over 100 dollars what a joke, should of paid nothing",
+                    "rating" : 3,
+                    "user_image" : "https://lh6.googleusercontent.com/-KhuvUVUCYhw/AAAAAAAAAAI/AAAAAAAAAAA/HxoJIu9drbY/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Kristen Brown",
+                    "comment" : "Kimberly at the front desk is amazing, helpful and very kind. The rooms are small but that's expected in a big city. It's a bummer they don't include breakfast as other Courtyard Marriott's do, A/C works great in the rooms, nice assortment of pillows offered in the rooms, as well as coffees and teas (Keurig). Great location for tourists! Good city views. Noisy street with cars honking and emergency vehicle sirens.",
+                    "rating" : 2,
+                    "user_image" : "https://lh4.googleusercontent.com/-jWjLiGKyJRY/AAAAAAAAAAI/AAAAAAAAAAA/Y5hyZO_GtMI/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                }
+            ]
+        },
+        {
+            "name" : "Da Vinci Hotel",
+            "phone" : "+1 212-489-4100",
+            "website" : "davincihotel.com",
+            "address" : "244 W 56th St, New York, NY 10019, United States",
+            "longitude" : -73.9850945,
+            "latitude" : 40.7643743,
+            "hotel_detail" : "This Italian-flavored Midtown hotel is 2 blocks from Carnegie Hall, 3 blocks from Central Park and 7 from the Museum of Modern Art. There's a subway 2 blocks away and it's a 15-minute walk from Broadway theaters. Set in a renovated tenement-style building, the wood-trimmed lobby has Old World details like a marble fireplace.Simply decorated rooms have marble bathrooms, minifridges, free WiFi and LCD TVs.The downstairs restaurant and bar serves southern Italian food and pizza.",
+            "image" : [
+                "https://lh3.googleusercontent.com/proxy/YQuvhBVBrjkAsaU79xECHm2Pq9kJc_jw_xdNQhPvlVedPKUhV8e-_oAUNtDa1IZBHm4m_5yTxSJ2Ev7lvNVEwvqgd5asFhIp__IWfIlnXAYonqWxRrYHSklYBDcnATzeZ8PPuKyaatJvr22QqvRiQ8BhS9qgiyk=w437-h240-k-no",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/517/51794328.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/609/60980402.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/514/51496480.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max1024x768/515/51510129.jpg"
+            ],
+            "comments" : [
+                {
+                    "usern_name" : "Sean Chankersingh",
+                    "comment" : "We usually come to the city at least once a month for a quick get away. Stayed here before and liked the location. However, after hearing that the governor of NYC asked everyone to not travel to the city, I called to cancel my booking due to the coroner epidemic. I spoke to the manager ena at the time and said I am willing to get a credit to use at a later date . She was no help at all. She said I could cancel the booking but would be charged a penalty of $85Let’s just say I would not be returning nor would I recommend this hotel to anyone .  What ever happened to human decency and moral obligation. Very disheartened !",
+                    "rating" : 1,
+                    "user_image" : "https://lh5.googleusercontent.com/-C53_ry6qymw/AAAAAAAAAAI/AAAAAAAAAAA/2QF_cKbAzVs/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Luciana Nascimento",
+                    "comment" : "The hotel is like a family business, what is good. For sure is not a fancy place, but it has a good price, it is safe and it is at a very good location. Very close to Columbus Circle, Whole Foods Market, Central Park, subway stations and restaurants. The room has a good size, despite the old style decoration and some not practical/useful furniture. The bed is comfy and the shower worked great. I really didn't have any problem with noise despite be in the middle of Manhattan. I really could sleep very well. My room was faced to the side of the hotel. No pretty view but I don't need a pretty view. The cleaning was good, no bugs were found, no previous guests items were found",
+                    "rating" : 4,
+                    "user_image" : "https://lh6.googleusercontent.com/-Uqpvjoi27Yw/AAAAAAAAAAI/AAAAAAAAAAA/u3A_HbNJuRw/w60-h60-p-rp-mo-ba3-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "M. Brown",
+                    "comment" : "Zero negative things to say about this place! It's a cozy, clean, comfortable hotel that serves its purpose when staying in the city. The room has wood floors, a full bathroom, a/c, and comfortable bed.The location is fantastic, with extremely quick walks to Central Park, subways, concert venues, shopping, and so much more. I was also highly impressed with the front desk attendant. From my first phone calls regarding parking, to my early check in request, to actual check-in and check-out process she was absolutely helpful and friendly. We would not hesitate to stay here again when we visit NYC.",
+                    "rating" : 5,
+                    "user_image" : "https://lh5.googleusercontent.com/-mXK1hhbtxIU/AAAAAAAAAAI/AAAAAAAAAAA/fcBuv3kIsQ4/w60-h60-p-rp-mo-ba4-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "tim blanchard",
+                    "comment" : "Great location. Very small. What you'd expect for NYC in a pinch.",
+                    "rating" : 3,
+                    "user_image" : "https://lh6.googleusercontent.com/-FJuh66vrh9g/AAAAAAAAAAI/AAAAAAAAAAA/Hwpfb4NXrEU/w60-h60-p-rp-mo-br100/photo.jpg"
+                },
+                {
+                    "usern_name" : "Christopher Dekker",
+                    "comment" : "My wife and I traveled to NYC in October of 2019 for a weekend stay in the city with friends, and booked two rooms via Expedia at the Da Vinci Hotel (one for friends, and one for ourselves).  For some unknown reason, I received an email the next day saying that our reservation had been cancelled.  So, I called the Da Vinci and asked why it had been cancelled, and they weren't sure what happened but said they'd be happy to rebook. I emphasized that the reservation was for *two* rooms, and everything seemed fine.  We then arrived for our stay at approximately 10:30pm on a Friday night only to find out that they had only booked one room, leaving us one short!  The lady at the front desk clearly didn't care about the fact that we were homeless, and made no effort to correct the situation. The only thing she did offer was a 'discounted' cot (not even free!) to sleep on in one of our friends (*tiny*) rooms. This was obviously not an option, so we had to float around from hotel to hotel (depending on availability and pricing) throughout the rest of our stay. I was appalled by the fact that the lady at the front desk made no effort to help us, and would encourage everyone considering the Da Vinci to book elsewhere.",
+                    "rating" : 1,
+                    "user_image" : "https://lh5.googleusercontent.com/-7fu_mLWZ6Rk/AAAAAAAAAAI/AAAAAAAAAAA/23QqGjxeLsA/w60-h60-p-rp-mo-br100/photo.jpg"
+                }
+            ]
+        }
+    ]
+}

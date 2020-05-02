@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/primaryColor</color>
+    <color name="colorPrimaryDark">@color/primaryDarkColor</color>
+    <color name="colorAccent">@color/primaryLightColor</color>
+    <color name="primaryColor">#e67e22</color>
+
+    <color name="primaryLightColor">#ffae53</color>
+
+    <color name="primaryDarkColor">#ae5000</color>
+
+    <color name="secondaryColor">#ff9100</color>
+
+    <color name="secondaryLightColor">#ffc246</color>
+
+    <color name="secondaryDarkColor">#c56200</color>
+
+    <color name="primaryTextColor">#000000</color>
+
+    <color name="secondaryTextColor">#000000</color>
+    <color name="foodie_light_grey">#D4D5D7</color>
+    <color name="backgroundColor">#D2D2D2</color>
+
+
+</resources>
